@@ -1,6 +1,6 @@
 # Customer-and-Product-segmentation
 
-This assignment is based on 
+This problem statement task is based on 
 
 https://store.hbr.org/product/champo-carpets-improving-business-to-business-sales-using-machine-learning-algorithms/IMB879
 
