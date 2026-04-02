@@ -22,7 +22,7 @@ Exploratory Data Analysis
 
 1.	Participants are expected to complete basic exploratory data analysis and find out at least 5 key insights from the data. 
 2.	These could be univariate or bivariate analysis. 
-3.	The insights should be depicted using appropriate charts.
+3.	The insights were depicted using appropriate charts.
 
 Customer Segmentation
 
@@ -50,9 +50,9 @@ Creating the following features for each of the products or items (item_id).
 -	total revenue generated.
 -	number of customers orders the item.
 -	average number of quantities per order and so on.
--	Add two more features based on your intuition or understanding.
+-	Added two more features based on my intuition or understanding.
 
-Create clusters to segment items or products based on above two features. Use appropriate methods to understand number of clusters and verify the quality of clusters.
+Created clusters to segment items or products based on above any of two features. Use appropriate methods to understand number of clusters and verify the quality of clusters.
 Analyze each cluster and interpret them. Also, name each segment based on your understanding.
 Product Cluster Based on Purchase Patterns
 Cluster the products based on how they are being bought together in orders. Choose the right metrics to cluster the products. 
